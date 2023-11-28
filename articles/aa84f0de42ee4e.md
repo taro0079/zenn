@@ -3,7 +3,7 @@ title: "DDDなSymfony + Api Platformでファイルをuploadする"
 emoji: "🐡"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["Symfony", "ApiPlatform", "php"]
-published: false
+published: true
 ---
 # はじめに
 仕事でphpのフレームワークのSymfonyとApiPlatformを利用してバックエンドAPI開発を行なっています。
